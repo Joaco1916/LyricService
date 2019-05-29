@@ -1,6 +1,6 @@
-package external.Lyrics;
+package ayds.ak4.lyrics;
 
-import external.ExternalService;
+import ayds.ak4.ExternalService;
 import retrofit2.Retrofit;
 import retrofit2.converter.scalars.ScalarsConverterFactory;
 

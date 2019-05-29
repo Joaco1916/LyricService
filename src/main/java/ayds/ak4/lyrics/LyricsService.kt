@@ -1,6 +1,6 @@
-package external.Lyrics
+package ayds.ak4.lyrics
 
-import external.ExternalService
+import ayds.ak4.ExternalService
 import java.io.IOException
 
 internal class LyricsService(private val lyricsBuilder: LyricsBuilder, private val lyricsAPI: LyricsAPI) : ExternalService {

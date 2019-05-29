@@ -1,4 +1,4 @@
-package external.Lyrics
+package ayds.ak4.lyrics
 
 interface LyricsBuilder {
     fun buildErrorLyrics(): Lyrics

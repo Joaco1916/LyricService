@@ -1,6 +1,6 @@
-package external
+package ayds.ak4
 
-import external.Lyrics.Lyrics
+import ayds.ak4.lyrics.Lyrics
 
 interface ExternalService {
     fun getLyricsFromService(song: String, artist: String): Lyrics

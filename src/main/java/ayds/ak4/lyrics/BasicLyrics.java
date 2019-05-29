@@ -1,4 +1,4 @@
-package external.Lyrics;
+package ayds.ak4.lyrics;
 
 public class BasicLyrics implements Lyrics {
     private String lyrics;

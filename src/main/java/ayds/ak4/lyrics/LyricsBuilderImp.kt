@@ -1,4 +1,4 @@
-package external.Lyrics
+package ayds.ak4.lyrics
 
 import com.google.gson.Gson
 import com.google.gson.JsonObject

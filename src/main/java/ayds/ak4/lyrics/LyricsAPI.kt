@@ -1,4 +1,4 @@
-package external.Lyrics
+package ayds.ak4.lyrics
 
 import retrofit2.Call
 import retrofit2.http.GET

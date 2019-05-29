@@ -1,6 +1,6 @@
-package external;
+package ayds.ak4;
 
-import external.Lyrics.LyricsServiceModule;
+import ayds.ak4.lyrics.LyricsServiceModule;
 
 public class ExternalServiceModule {
     private static ExternalServiceModule instance;
